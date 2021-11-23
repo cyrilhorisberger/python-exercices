@@ -1,0 +1,10 @@
+def FarConverter(celsius):
+    print((celsius * 9/5) + 32)
+    print("bravo")
+    print("")
+FarConverter(7)
+FarConverter(23)
+FarConverter(105)
+FarConverter(1000)
+FarConverter(-105)
+FarConverter(-5000)

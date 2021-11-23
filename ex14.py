@@ -1,0 +1,5 @@
+print ("Addition of two numbers.")
+x = input ("First number : ")
+y = input ("Second number : ")
+result = float(x) + float (y)
+print (x + " and " + y + " equals "+str(result))
